@@ -9,7 +9,7 @@
 
 
 -   Free software: MIT license
--   Documentation: https://lukemlawley.github.io/lml-lab3
+-   Documentation: https://lukemlawley.github.io/LML-Lab3/
     
 
 ## Features
